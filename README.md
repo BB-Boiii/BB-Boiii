@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 🌱 I’m just learning coding from Scratch. :)
+## 🌱 I’m just learning coding from Scratch so Pythoning my way into it :)
 
 <!--
 **BB-Boiii/BB-Boiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
