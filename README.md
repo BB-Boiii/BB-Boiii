@@ -1,5 +1,6 @@
 ## Hi there 👋
 ## 🌱 I’m just learning coding from scratch so Pythoning my way into it :)
+## Also Playwrighting :) 
 
 <!--
 **BB-Boiii/BB-Boiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
